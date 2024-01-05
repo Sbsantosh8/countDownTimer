@@ -8,7 +8,7 @@ let s = document.querySelector(".seconds");
 
 
 // 
-var dest = new Date("jan 6, 2024 11:00:00").getTime();
+var dest = new Date("jan 6, 2026 11:00:00").getTime();
 // 
 var x = setInterval(function(){
 // 
